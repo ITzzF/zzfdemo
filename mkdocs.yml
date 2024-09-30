@@ -81,6 +81,7 @@ nav:
     - Report Issues: https://github.com/ITzzF/zzfdemo/issues
     - Examples:
         - examples/intro.ipynb
+        - examples/random.ipynb
     - API Reference:
           - zzfdemo module: zzfdemo.md
           - common module: common.md

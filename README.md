@@ -16,3 +16,4 @@
 
 <!-- -   TODO -->
 -   Visualizing raster and vector data
+-   Anlyzing raster and vector data

@@ -20,7 +20,7 @@ jobs:
             - name: Discover typos with codespell
               run: |
                   pip install codespell
-                  codespell --skip="*.csv,*.geojson,*.json,*.js,*.html,*cff,./.git" --ignore-words-list="aci,acount,acounts,fallow,hart,hist,nd,ned,ois,wqs,watermask,fro,whit,wont, trough, wery, oders, oder, indite, connexion, stript, descried, cant, wight, panting, imbedded, atheistical, revered, girds, stings, alow, Claus, quitted, vermillion, planed, te, builded, subtile, fulfilment, Despatch, tread, singed, marge, wee, bale, re-use, MERCHANTIBILITY, worser, payed, throughly"
+                  codespell --skip="*.csv,*.geojson,*.json,*.js,*.html,*cff,./.git" --ignore-words-list="aci,acount,acounts,fallow,hart,hist,nd,ned,ois,wqs,watermask"
             - name: PKG-TEST
               run: |
                   python -m unittest discover tests/

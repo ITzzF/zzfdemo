@@ -85,7 +85,7 @@ nav:
     - Python Basics:
         - python/01_getting_started.ipynb
         - python/02_variables_data_types.ipynb
-        - python/introducing_lists.ipynb
+        - python/03_introducing_lists.ipynb
         - python/04_working_with_lists.ipynb
         - python/05_if_statements.ipynb
         - python/06_dictionaries.ipynb

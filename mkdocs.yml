@@ -82,6 +82,17 @@ nav:
     - Examples:
         - examples/intro.ipynb
         - examples/random.ipynb
+    - Python Basics:
+        - python/01_getting_started.ipynb
+        - python/02_variables_data_types.ipynb
+        - python/introducing_lists.ipynb
+        - python/04_working_with_lists.ipynb
+        - python/05_if_statements.ipynb
+        - python/06_dictionaries.ipynb
+        - python/07_user_input_while_loops.ipynb
+        - python/08_functions.ipynb
+        - python/09_classes.ipynb
+        - python/10_files_exceptions.ipynb
     - API Reference:
           - zzfdemo module: zzfdemo.md
           - common module: common.md

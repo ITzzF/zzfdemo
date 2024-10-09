@@ -92,7 +92,7 @@ nav:
         - python/07_user_input_while_loops.ipynb
         - python/08_functions.ipynb
         - python/09_classes.ipynb
-        - python/10_files_exceptions.ipynb
+        - python/10_files_and_exceptions.ipynb
     - API Reference:
           - zzfdemo module: zzfdemo.md
           - common module: common.md

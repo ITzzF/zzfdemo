@@ -83,6 +83,8 @@ nav:
         - examples/intro.ipynb
         - examples/random.ipynb
         - examples/ipyleaflet.ipynb
+        - examples/vector.ipynb
+        - examples/csv.ipynb
     - Python Basics:
         - python/01_getting_started.ipynb
         - python/02_variables_data_types.ipynb
@@ -97,3 +99,4 @@ nav:
     - API Reference:
           - zzfdemo module: zzfdemo.md
           - common module: common.md
+          - utils module: utils.md
